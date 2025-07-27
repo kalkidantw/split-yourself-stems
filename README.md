@@ -200,9 +200,7 @@ DEBUG=true
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -214,7 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/kalkidantw/split-yourself-stems/issues)
-- **Email**: [Your email here]
+- **Email**: kalkidantibebuw@gmail.com
 - **Documentation**: Check the `/docs` folder for detailed guides
 
 ---
